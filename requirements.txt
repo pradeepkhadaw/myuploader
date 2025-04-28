@@ -33,7 +33,6 @@ cloudscraper
 pytube
 PyJWT
 sqlalchemy
-pyopenssl
 wget
 bs4
 beautifulsoup4
